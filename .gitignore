@@ -5,7 +5,6 @@ __pycache__
 
 # Logs
 *.log
-*.py[cod]
 
 # C extensions
 *.so
@@ -24,7 +23,6 @@ develop-eggs
 .installed.cfg
 lib
 lib64
-__pycache__
 
 # Installer logs
 pip-log.txt
@@ -42,7 +40,6 @@ nosetests.xml
 .idea
 
 # Vim
-
 *~
 *.swp
 *.swo
